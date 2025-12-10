@@ -28,3 +28,11 @@ web-tl/
 
 ### Desktop-View
 <img width="1627" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a0c1ec7-1d18-46fc-bf51-8425faa86404" />
+
+## Contribute
+[CONTRIBUTE.m](Let's contribute)
+
+## Branch rules
+```sh
+git checkout -b "WEB-TL:create /styles/web-tl/main.css"
+```
