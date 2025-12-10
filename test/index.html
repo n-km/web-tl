@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web-tl</title>
+    <link rel="stylesheet" href="../styles/web-tl/main.css">
+    <script src="../scripts/web-tl/main.js"></script>
+</head>
+<body>
+
+    <header class="glass-liquid">
+        <h1>web-tl</h1>
+         <button class="menu-btn" id="burger" onclick="toggleMenu()">
+            <svg class="line-1" id="line1">
+                <rect width="25" height="3"></rect>
+            </svg>
+            <svg class="line-2" id="line2">
+                <rect width="25" height="3"></rect>
+            </svg>
+            <svg class="line-3" id="line3">
+                <rect width="25" height="3"></rect>
+            </svg>
+        </button>
+</header>
+<div class="menu-nav" id="menu">
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Blog</a></li>
+    </ul>
+</div>
+<div class="menu-backpanel" id="backpanel" onclick="closeMenu()"></div>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to web-tl</h2>
+            <p>Your go-to platform for an lightweight web-template.</p>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Coming Soon.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or feedback, feel free to reach out!</p>
+        </section>
+    </main>
+
+        <footer>
+            <p>&copy; 2024 web-tl. All rights reserved.</p>
+        </footer>
+
+</body>
+</html>

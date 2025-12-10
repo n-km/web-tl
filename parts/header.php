@@ -14,9 +14,11 @@
 </header>
 <div class="menu-nav" id="menu">
     <ul>
-        <li><a href="#">START</a></li>
-        <li><a href="#">ÜBER UNS</a></li>
-        <li><a href="#">STANDORTE</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact Us</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Blog</a></li>
     </ul>
 </div>
 <div class="menu-backpanel" id="backpanel" onclick="closeMenu()"></div>
