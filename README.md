@@ -36,3 +36,15 @@ web-tl/
 ```sh
 git checkout -b "WEB-TL:create /styles/web-tl/main.css"
 ```
+
+## Commit rules
+**USE KEYWORDS**
+```sh
+git commit -m "added: /styles/web-tl/main.css;"
+
+git commit -m "main.css: added general style;"
+
+git commit -m "main.css: added general style, added header style, changed footer style;"
+
+git commit -m "deleted: /styles/web-tl/main.css;"
+```
