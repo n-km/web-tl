@@ -15,6 +15,11 @@
     color: #333;
 }
 
+html {
+    scrollbar-color: #e69808 rgba(50, 50, 50, 0.5);
+    scrollbar-width: thin;
+}
+
 /* GLOBAL STYLES - BODY */
 body {
     font-family: 'Montserrat', sans-serif;
