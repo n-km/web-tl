@@ -5,6 +5,7 @@ an responsive web-template
 web-tl/
 ├─ assets/
     ├─ icons/
+├─ content/
 ├─ scripts/
     ├─ main.js
 ├─ styles/
