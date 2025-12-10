@@ -6,9 +6,17 @@ web-tl/
 ├─ assets/
     ├─ icons/
 ├─ content/
+├─ parts/
+    ├─ footer.php
+    ├─ header.php
 ├─ scripts/
-    ├─ main.js
-├─ styles/
-    ├─ main.css
-└─ index.html
+    ├─ addons/
+    ├─ web-tl/
+        ├─ main.js
+├─ styles
+    ├─ addons/
+    ├─ web-tl/
+        ├─ main.css
+        ├─ menu.css
+└─ index.php
 ```
