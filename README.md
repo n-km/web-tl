@@ -1,5 +1,5 @@
 # web-tl
-an responsive web-template
+>an responsive web-template
 ## File-Structure
 ```FILE-STRUCTURE.TXT
 web-tl/
